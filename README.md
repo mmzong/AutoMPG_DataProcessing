@@ -25,7 +25,7 @@ This project involves creating an object-oriented framework in Python to process
 
 ## Project Structure
 
-├── README.md                 # Project documentation\n
+├── README.md                 # Project documentation\
 ├── data/                     # Raw and processed datasets
 │   ├── auto-mpg.data.txt     # Original dataset
 │   └── auto-mpg.clean.txt    # Standardized dataset
