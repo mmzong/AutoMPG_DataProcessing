@@ -24,7 +24,6 @@ This project involves creating an object-oriented framework in Python to process
 - **Handling Missing Data**: The dataset includes missing values in some columns (e.g., horsepower). These values were cleaned using techniques such as imputation or removal based on analysis requirements.
 
 ## Project Structure
-*** Edit project structure
 
 ├── README.md                 # Project documentation
 ├── data/                     # Raw and processed datasets
@@ -61,9 +60,8 @@ This project involves creating an object-oriented framework in Python to process
 ## How to Run
 
 1. **Fork the Repository**:
-*** check correct URL
    ```bash
-   git fork https://github.com/yourusername/auto-mpg-data-processing.git
+   git fork https://github.com/mmzong/auto-mpg-data-processing.git
    ```
 
 2. **Run the Project**:
