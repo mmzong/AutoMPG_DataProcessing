@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 # AutoMPG_DataProcessing
 Object-Oriented Data Processing Framework for the UCI AutoMPG Dataset
-||||||| (empty tree)
-=======
-# Object-Oriented Data Processing Framework for AutoMPG Dataset
 
 
 ## Project Overview
@@ -74,4 +70,3 @@ This project involves creating an object-oriented framework in Python to process
    ```bash
     python src/autompg.py
    ```
->>>>>>> 09e7faa (Initial commit: adding all project files)
