@@ -26,14 +26,14 @@ This project involves creating an object-oriented framework in Python to process
 ## Project Structure
 
 ├── README.md                 # Project documentation\
-├── data/                     # Raw and processed datasets
-│   ├── auto-mpg.data.txt     # Original dataset
-│   └── auto-mpg.clean.txt    # Standardized dataset
-├── src/                      # Source code for data processing
-│   ├── autompg.py            # Main script to run the analysis
-│   └── __init__.py
-└── tests/                    # Unit tests for the framework
-    └── test_mpg.py           # Test cases for MPG data processing
+├── data/                     # Raw and processed datasets\
+│   ├── auto-mpg.data.txt     # Original dataset\
+│   └── auto-mpg.clean.txt    # Standardized dataset\
+├── src/                      # Source code for data processing\
+│   ├── autompg.py            # Main script to run the analysis\
+│   └── __init__.py\
+└── tests/                    # Unit tests for the framework\
+    └── test_mpg.py           # Test cases for MPG data processing\
 
 
 ## Classes
