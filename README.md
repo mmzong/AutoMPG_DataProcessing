@@ -24,7 +24,7 @@ This project involves creating an object-oriented framework in Python to process
 - **Handling Missing Data**: The dataset includes missing values in some columns (e.g., horsepower). These values were cleaned using techniques such as imputation or removal based on analysis requirements.
 
 ## Project Structure
-
+```bash
 ├── README.md                 # Project documentation\
 ├── data/                     # Raw and processed datasets\
 │   ├── auto-mpg.data.txt     # Original dataset\
@@ -34,7 +34,7 @@ This project involves creating an object-oriented framework in Python to process
 │   └── __init__.py\
 └── tests/                    # Unit tests for the framework\
     └── test_mpg.py           # Test cases for MPG data processing\
-
+```
 
 ## Classes
 
