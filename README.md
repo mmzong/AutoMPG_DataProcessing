@@ -6,6 +6,7 @@ Object-Oriented Data Processing Framework for the UCI AutoMPG Dataset
 
 **Date:** 23 Jan. 2024 - 31 Jan. 2024  
 **Author:** Michelle Zong
+
 This project involves creating an object-oriented framework in Python to process and analyze fuel efficiency data from the UCI AutoMPG dataset. The focus of the project is to apply object-oriented programming (OOP) principles to clean, transform, and analyze the dataset efficiently.
 
 
@@ -15,6 +16,9 @@ This project involves creating an object-oriented framework in Python to process
 - **Data Parsing and Cleaning**: Handles non-standard delimiters and missing values in the dataset. Implements flexible data ingestion and transformation methods.
 - **Iterable Data Structures**: Built custom iterable data structures to process the dataset in a memory-efficient manner, allowing for easy exploration and analysis of the dataset.
 - **Data Comparison**: Allows data comparison between two AutoMPG objects such as equality and less than comparisons based on vehicle features (e.g., year, mpg).
+- **Unit Testing with `unittest`:** The file uses Python's unittest framework to test the functionality of the AutoMPG and AutoMPGData classes.
+    - Methods like setUpClass, tearDownClass, setUp, and tearDown are used for setup and cleanup before and after tests.
+    - Includes checks for string formatting, equality comparison, less-than ordering, and hashability.
 
 
 ## Dataset
