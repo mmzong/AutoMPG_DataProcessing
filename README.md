@@ -68,7 +68,12 @@ This project involves creating an object-oriented framework in Python to process
    git fork https://github.com/mmzong/auto-mpg-data-processing.git
    ```
 
-2. **Run the Project**:
+2. **Install Requirements**:
+   ```bash
+   pip install -r <path/to/requirements.txt>
+   ```
+
+3. **Run the Project**:
    ```bash
     python src/autompg.py
    ```
